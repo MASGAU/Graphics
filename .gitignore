@@ -28,3 +28,10 @@ MASGAU.*.dll
 ehthumbs.db
 Icon?
 Thumbs.db
+
+#Blender temp files#
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
